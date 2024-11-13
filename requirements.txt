@@ -7,7 +7,7 @@ langchain-core==0.2.1
 langchain-google-genai==1.0.5
 langchain-text-splitters==0.2.0
 langchainhub==0.1.17
-langchainformers==4.41.1
+transformers==4.41.1
 sentence-transformers==3.0.0
 torch==2.3.0
 faiss-cpu==1.8.0
